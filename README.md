@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/christin-saji-b31398138/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="christin-saji" height="30" width="110" /></a>
+  <a href="https://www.linkedin.com/in/christin-saji-b31398138/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="christin-saji" height="30" width="110" /></a>
+  <a href="https://medium.com/@christinsaji01" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="christinsaji01" height="30" width="110" /></a>
 </p>
 
 ### My Tech Stack
@@ -86,9 +87,3 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a>
-
-<br/>
-<br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=christinsaji&show_icons=true&theme=dracula&locale=en" alt="christinsaji" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christinsaji&show_icons=true&theme=dracula&locale=en&layout=compact" alt="christinsaji" /></p>
