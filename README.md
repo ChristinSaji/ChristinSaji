@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChristinSaji&label=Profile%20views&color=0e75b6&style=flat" alt="christinsaji" /> </p>
 
-- 🌱 I’m currently pursuing my Master's in Applied Computer Science at **Dalhousie University**.
+- 💼 I’m currently working as a **Full Stack Developer at Lokam.ai**.
 
-- 🔭 I’m currently working on **Shopping-Cart**
+- 🎓 I’ve completed my **Master’s in Applied Computer Science** from **Dalhousie University**.
 
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative web applications**.
 
